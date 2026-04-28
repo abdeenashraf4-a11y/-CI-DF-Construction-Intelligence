@@ -30,6 +30,7 @@ This research is published on SSRN as a preprint:
 
 ## Author
 
-Ashraf Hassan Abdeen  
+**Ashraf Hassan Abdeen**  
 Kingdom of Saudi Arabia  
 2026
+
