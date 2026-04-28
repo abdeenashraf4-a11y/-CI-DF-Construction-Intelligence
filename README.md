@@ -24,6 +24,8 @@ The framework establishes a new principle:
 
 ## Publication
 
+## Publication
+
 This research is published on SSRN as a preprint:
 
 🔗 http://ssrn.com/abstract=6665018
